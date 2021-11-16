@@ -11,8 +11,10 @@
 ```javascript
 const nohely = {
   pronouns: "she" | "her", 
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Hooks, Sass, Linux, Styled-Components, Jest, Figma, Trello, npm, Shell],
+  code: ["Javascript", "HTML", "CSS", "Python"],
+  tools: ["React", "Hooks", "Sass", "Linux",
+          "Jest", "Figma", "Trello", "npm", "Shell"],
+  database: ["Firebase", "MySQL"],
   techCommunities: {
                         volunteer: "Women Who Code",
       					student: "Laboratoria"
@@ -23,7 +25,22 @@ const nohely = {
 
 
 
-- 🌱 I’m currently learning Node.js & PHP
+- 🌱 I’m currently learning Accessibility, Node.js & PHP
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
+- ⚡ Fun fact: I studied physics, love videogames and cats
+
+
+
+![Nohely's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohelyx-bc&show_icons=true&theme=jolly)
+
+## Contact me! 🖋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nohelybadillo/)
+
+[![Twitter](https://img.shields.io/twitter/follow/nohelybadc?style=social)](https://twitter.com/nohelybadc)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lnohely.badillo96@gmail.com)
+
+
 
