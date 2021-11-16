@@ -26,7 +26,7 @@ const nohely = {
 
 
 - 🌱 I’m currently learning Accessibility & PHP
-- 👯 I’m looking to collaborate on MERN stack projects
+- 👯 I’m looking to collaborate on MERN & MEAN stack projects
 - 💬 Ask me about Web dev related Stuff
 - ⚡ Fun fact: I studied physics, love videogames and cats
 
