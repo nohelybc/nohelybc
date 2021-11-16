@@ -17,7 +17,7 @@ const nohely = {
   database: ["Firebase", "MySQL"],
   techCommunities: {
                         volunteer: "Women Who Code",
-  student: "Laboratoria"
+                        student: "Laboratoria"
                       },
  challenge: "I'm learning by myself backend development"
 }
