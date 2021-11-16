@@ -38,7 +38,7 @@ const nohely = {
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nohelybadillo/)
 
-[![Twitter](https://img.shields.io/twitter/follow/nohelybadc?style=social)](https://twitter.com/nohelybadc)
+[![Twitter](https://img.shields.io/twitter/follow/nohelybad?style=social)](https://twitter.com/nohelybadc)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lnohely.badillo96@gmail.com)
 
