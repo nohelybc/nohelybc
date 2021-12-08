@@ -17,7 +17,7 @@ const nohely = {
   database: ["Firebase", "MySQL"],
   techCommunities: {
                         volunteer: "Women Who Code",
-                        student: "Laboratoria"
+                        student: "Laboratoria", "Platzi"
                       },
  challenge: "I'm learning by myself backend development"
 }
@@ -25,8 +25,8 @@ const nohely = {
 
 
 
-- 🌱 I’m currently learning Accessibility & PHP
-- 👯 I’m looking to collaborate on MERN & MEAN stack projects
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
 - ⚡ Fun fact: I studied physics, love videogames and cats
 
