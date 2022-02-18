@@ -25,7 +25,7 @@ const nohely = {
 
 
 
-- 🌱 I’m currently learning Angular
+- 📚 I’m currently learning Angular
 - 💬 Ask me to colaborate in Tech communities and mentorship 
 - ⚡ Fun fact: I studied physics, love videogames, gardening and cats
 
