@@ -10,25 +10,24 @@
 
 ```javascript
 const nohely = {
-  pronouns: "she" | "her", 
+  pronouns: "she" | "her", "they" | "them"
   code: ["Javascript", "HTML", "CSS", "Python"],
-  tools: ["React", "Hooks", "Sass", "Linux",
-          "Jest", "Figma", "Trello", "npm", "Shell"],
+  tools: ["React", "Hooks", "Sass", "Linux", "Django", "Angular"
+          "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
   database: ["Firebase", "MySQL"],
   techCommunities: {
                         volunteer: "Women Who Code",
                         student: "Laboratoria", "Platzi"
                       },
- challenge: "I'm learning by myself backend development"
+ challenge: "Become a Fullstack Developer"
 }
 ```
 
 
 
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on MERN stack projects
-- 💬 Ask me about Web dev related Stuff
-- ⚡ Fun fact: I studied physics, love videogames and cats
+- 🌱 I’m currently learning Angular
+- 💬 Ask me to colaborate in Tech communities and mentorship 
+- ⚡ Fun fact: I studied physics, love videogames, gardening and cats
 
 
 
