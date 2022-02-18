@@ -11,7 +11,7 @@
 ```javascript
 const nohely = {
   pronouns: "she" | "her", "they" | "them"
-  code: ["Javascript", "HTML", "CSS", "Python"],
+  code: ["Javascript", "HTML", "CSS", "Python", "Typescript"],
   tools: ["React", "Hooks", "Sass", "Linux", "Django", "Angular"
           "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
   database: ["Firebase", "MySQL"],
