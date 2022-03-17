@@ -31,7 +31,7 @@ const nohely = {
 
 
 
-![Nohely's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohelyx-bc&show_icons=true&theme=jolly)
+![Nohely's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohelybc&show_icons=true&theme=jolly)
 
 ## Contact me! 🖋
 
