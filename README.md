@@ -15,7 +15,7 @@ const nohely = {
   tools: ["React", "Hooks", "Sass", "Linux", "Django", "Angular"
           "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
   database: ["Firebase", "MySQL"],
-  techCommunities: 
+  techCommunities: {
                         student: "Laboratoria", "Platzi"
                       },
  challenge: "Become a Fullstack Developer"
