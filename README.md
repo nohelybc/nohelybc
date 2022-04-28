@@ -31,6 +31,8 @@ const nohely = {
 
 
 ![Nohely's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohelybc&show_icons=true&theme=jolly)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohelybc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me! 🖋
 
