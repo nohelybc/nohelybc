@@ -12,11 +12,12 @@
 const nohely = {
   pronouns: "she" | "her",
   code: ["Javascript", "HTML", "CSS", "Python", "Typescript"],
-  tools: ["React", "Hooks", "Sass", "Linux", "Django", "Angular"
+  tools: ["React", "Hooks", "Sass", "Linux", "Django", "Flask", "Angular"
           "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
   database: ["Firebase", "MySQL"],
   techCommunities: {
-                        student: "Laboratoria", "Platzi"
+                        graduated: "Laboratoria"
+                        student: "Platzi", "Código Facilito",
                       },
  challenge: "Become a Fullstack Developer"
 }
@@ -24,7 +25,7 @@ const nohely = {
 
 
 
-- 📚 I’m currently learning Angular
+- 📚 I’m currently learning backend and DB
 - 💬 Ask me to colaborate in Tech communities 
 - ⚡ Fun fact: My hobbies are videogames and gardening. I take a Japanese course. 
 
