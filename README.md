@@ -16,7 +16,7 @@ const nohely = {
           "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
   database: ["Firebase", "MySQL"],
   techCommunities: {
-                        graduated: "Laboratoria"
+                        graduated: "Laboratoria",
                         student: "Platzi", "Código Facilito",
                       },
  challenge: "Become a Fullstack Developer"
