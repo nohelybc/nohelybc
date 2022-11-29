@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello, I'm Nohely Badillo 👩🏽‍💻
 
-<h3 align="center"> ✨Frontend Developer✨
+<h3 align="center"> ✨Fullstack Software Developer✨
 
 
 
