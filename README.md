@@ -12,7 +12,8 @@
 nohely = {
   pronouns: "she" | "her",
   code: ["C++", "Python", "Typescript", "Go"],
-  tools: ["Docker", "Linux", "ssh", "git", "Ci/Cd", "Podman", "Miro", "Confluence", "Splunk"],
+  tools: ["Docker", "Linux", "ssh", "git", 
+          "Ci/Cd", "Podman", "Miro", "Confluence", "Splunk"],
   tech_communities: {
                         volunteer: "Women Who Code Merida"
                       },
