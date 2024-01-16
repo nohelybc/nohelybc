@@ -2,32 +2,30 @@
 
 <h1 align="center"> Hello, I'm Nohely Badillo 👩🏽‍💻
 
-<h3 align="center"> ✨Fullstack Software Developer✨
+<h3 align="center"> ✨Backend Software Developer✨
 
 
 
-### <img align= "right" width= "250" src= "https://64.media.tumblr.com/74c84e00a162d8370a24220dd2b2d08a/0e125ea7fdb8674a-62/s400x600/82c273f590e8d3bc593be2142c2dd7792216823e.gifv"/> A Little about me🌙
+### <img align= "right" width= "250" src= "https://64.media.tumblr.com/74c84e00a162d8370a24220dd2b2d08a/0e125ea7fdb8674a-62/s400x600/82c273f590e8d3bc593be2142c2dd7792216823e.gifv"/> Something about me🌙
 
-```javascript
-const nohely = {
+```python
+nohely = {
   pronouns: "she" | "her",
-  code: ["Javascript", "HTML", "CSS", "Python", "Typescript"],
-  tools: ["React", "Hooks", "Sass", "Linux", "Django", "Flask", "Angular"
-          "Jest", "Figma", "Trello", "npm", "Shell", "Bootstrap"],
-  database: ["Firebase", "MySQL"],
-  techCommunities: {
-                        graduated: "Laboratoria",
-                        student: "Platzi", "Código Facilito",
+  code: ["C++", "Python", "Typescript", "Go"],
+  tools: ["Docker", "Linux", "ssh", "git", "Ci/Cd", "Podman", "Miro", "Confluence", "Splunk"],
+  tech_communities: {
+                        volunteer: "Women Who Code Merida"
                       },
- challenge: "Become a Fullstack Developer"
+ challenge: "Become a Software Architect"
 }
 ```
 
 
 
-- 📚 I’m currently learning backend and DB
-- 💬 Ask me to colaborate in Tech communities 
-- ⚡ Fun fact: My hobbies are videogames and gardening. I take a Japanese course. 
+- 📚 I’m currently learning Go and improving my C++ skills
+- 💬 Ask me to collaborate in Tech communities 
+- ⚡ Fun fact: My hobbies are videogames and crochet. 
+- I am not scared about Prod deploys anymore
 
 
 
@@ -37,8 +35,6 @@ const nohely = {
 ## Contact me! 🖋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nohelybadillo/)
-
-[![Twitter](https://img.shields.io/twitter/follow/nohelybc?style=social)](https://twitter.com/nohelybc)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lnohely.badillo96@gmail.com)
 
